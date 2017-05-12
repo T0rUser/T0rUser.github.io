@@ -25,6 +25,27 @@ body {
   font-kerning: normal;
 }
 
+@font-face {
+  font-family: "Libre Baskerville";
+  font-style: normal;
+  font-weight: 400;
+  src: local('Libre Baskerville'), local('LibreBaskerville-Regular'),
+       url("https://nymity.ch/fonts/LibreBaskerville-Regular-google.woff") format("woff");
+}
+@font-face {
+  font-family: "Libre Baskerville";
+  font-style: normal;
+  font-weight: 700;
+  src: local('Libre Baskerville Bold'), local('LibreBaskerville-Bold'),
+       url("https://nymity.ch/fonts/LibreBaskerville-Bold-google.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Libre Baskerville";
+  font-style: italic;
+  font-weight: 400;
+  src: local('Libre Baskerville Italic'), local('LibreBaskerville-Italic'),
+       url("https://nymity.ch/fonts/LibreBaskerville-Italic-google.woff") format("woff");
+}
 
 
 /**
