@@ -49,7 +49,7 @@ markdown: kramdown
 excerpt_separator: "<!-- more -->"
 
 # Outputting
-permalink: /:year/:month/:day/:title/
+permalink: /:year/:month/:title/
 paginate_path: /posts/:num/
 paginate: 5
 
