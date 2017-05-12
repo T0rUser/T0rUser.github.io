@@ -2,6 +2,6 @@
 # pages in order as they should show up.
 main:
   - title: "About"
-    url: https://t0ruser.github.io/about
+    url: /about
   - title: "Archives"
-    url: https://t0ruser.github.io/archives
+    url: /archives
