@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Using HTTPS Everywhere to force redirects to *.onion
+title: Using HTTPS Everywhere to force redirects to \*.onion
 categories:
-  - Onion Services
+  - Onion-Services
   - Usability
 ---
 One of the . In this article
