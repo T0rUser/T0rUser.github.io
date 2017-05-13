@@ -5,7 +5,7 @@ categories:
   - Onion-Services
   - Usability
 ---
-![](intropic)
+![][intropic]
 
 One of the . In this article
 
