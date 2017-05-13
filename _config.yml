@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.author }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: T0r User
-author: Monthly blog articles, optimized for 600x1000.
-description: Monthly blog articles.
+title: T0r User | *Monthly blog articles, optimized for 600x1000.*
+author: 
+description: 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://t0ruser.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 lang: en
