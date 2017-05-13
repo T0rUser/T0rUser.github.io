@@ -1,10 +1,11 @@
 ---
 layout: post
-title: Using HTTPS Everywhere to force redirects to \*.onion
+title: Transforming HTTPS Everywhere to Onion Everywhere
 categories:
   - Onion-Services
   - Usability
 ---
+![](https://web.archive.org/web/20170513092328/https://raw.githubusercontent.com/T0rUser/T0rUser.github.io/af40b27ac7c72083d8fc3053581073b1302245c5/Untitled.png)
 One of the . In this article
 
 {% highlight ruby %}
